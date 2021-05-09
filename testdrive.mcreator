@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "evil_wiz"
+    },
+    {
+      "name": "Structure",
+      "type": "structure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "structure"
     }
   ],
   "variable_elements": [],
