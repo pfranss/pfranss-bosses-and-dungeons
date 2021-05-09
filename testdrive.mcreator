@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "super_sword"
+    },
+    {
+      "name": "EvilWiz",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_wiz"
     }
   ],
   "variable_elements": [],
@@ -25,7 +34,9 @@
   "language_map": {
     "en_us": {
       "item.testdrive.theundeadcaptain_spawn_egg": "Theundeadcaptain Spawn Egg",
+      "item.testdrive.evil_wiz_spawn_egg": "Evil Wiz Spawn Egg",
       "item.testdrive.super_sword": "Super Sword",
+      "entity.testdrive.evil_wiz": "Evil Wiz",
       "entity.testdrive.theundeadcaptain": "Theundeadcaptain"
     }
   },
